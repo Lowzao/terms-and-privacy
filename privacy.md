@@ -29,4 +29,4 @@ Os dados são utilizados para:
 Esta política pode ser atualizada a qualquer momento. A versão mais recente estará sempre disponível no link oficial ou comando do bot.
 
 ## 6. Contato
-Para dúvidas ou solicitações relacionadas a esta política, entre em contato via Discord: @SeuUser ou pelo e-mail: arthur.fsc07@gmail.com
+Para dúvidas ou solicitações relacionadas a esta política, entre em contato via Discord: **hypexisz** ou pelo e-mail: arthur.fsc07@gmail.com
