@@ -2,7 +2,7 @@
 
 Última atualização: 10 de julho de 2025
 
-Ao utilizar o bot [NOME DO BOT], você concorda com os seguintes termos:
+Ao utilizar o bot Zyro, você concorda com os seguintes termos:
 
 ## 1. Uso do Bot
 - O bot é fornecido "no estado em que se encontra", sem garantias de funcionamento ininterrupto ou livre de erros.
@@ -18,4 +18,4 @@ Ao utilizar o bot [NOME DO BOT], você concorda com os seguintes termos:
 - O bot não coleta ou compartilha dados fora dos escopos descritos na Política de Privacidade.
 
 ## 4. Contato
-Para dúvidas, sugestões ou solicitações, entre em contato via Discord: @SeuUser ou pelo e-mail: arthur.bot@gmail.com
+Para dúvidas, sugestões ou solicitações, entre em contato via Discord: **hypexisz** ou pelo e-mail: arthur.fsc07@gmail.com
