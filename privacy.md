@@ -2,7 +2,7 @@
 
 Última atualização: 10 de julho de 2025
 
-Esta Política de Privacidade descreve como os dados dos usuários são coletados, utilizados e armazenados pelo bot [NOME DO BOT].
+Esta Política de Privacidade descreve como os dados dos usuários são coletados, utilizados e armazenados pelo bot Zyro.
 
 ## 1. Dados Coletados
 O bot pode coletar os seguintes dados dos usuários:
@@ -29,4 +29,4 @@ Os dados são utilizados para:
 Esta política pode ser atualizada a qualquer momento. A versão mais recente estará sempre disponível no link oficial ou comando do bot.
 
 ## 6. Contato
-Para dúvidas ou solicitações relacionadas a esta política, entre em contato via Discord: @SeuUser ou pelo e-mail: arthur.bot@gmail.com
+Para dúvidas ou solicitações relacionadas a esta política, entre em contato via Discord: @SeuUser ou pelo e-mail: arthur.fsc07@gmail.com
